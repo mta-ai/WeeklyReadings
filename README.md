@@ -1,9 +1,5 @@
 # Readings
 
-Readings for the club specifically can be found in this google drive folder:
+This repository contains readings and references to code in various subfields of artificial intelligence (especially related to machine learning). Suggested resources that are found as either educational or interesting are welcomed.
 
-https://drive.google.com/drive/folders/1yObroI-Uz3lCLgLgbu4CSmb9F4K5bqoi?usp=sharing
-
-In this repository, each subfolder contains, readings and code in various subfields of AI (especially machine learning related). Please feel free to fork and play around with this. 
-
-
+Resources for learning about various AI fields and technologies can be found on our wiki. Additionally, recommended weekly readings for the Mount Allison Artificial Intelligence Club can be found within a WeeklyReadings(Semester)(year) directory.
