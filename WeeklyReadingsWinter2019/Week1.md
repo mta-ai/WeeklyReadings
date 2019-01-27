@@ -1,5 +1,5 @@
 # Mount Allison Artificial Intelligence Club Readings
-## Spring 2019, Week 1.
+## Winter 2019, Week 1.
 
 ### Theme: Modeling acrobatics with neural networks.
 ### Note: Especially light reading this week.
