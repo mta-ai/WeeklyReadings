@@ -10,4 +10,4 @@
 [Machine learning: Trends,perspectives, and prospects](https://www.cs.cmu.edu/~tom/pubs/Science-ML-2015.pdf)
 
 ## Suggested:
-[But what *is* a Neural Network? | Deep learning, chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
+[But what *is* a Neural Network? | Deep learning, chapter 1 (video)](https://www.youtube.com/watch?v=aircAruvnKk)
