@@ -9,3 +9,6 @@
 
 ## Suggested:
 [SFV: Reinforcement Learning of Physical Skills from Videos](https://xbpeng.github.io/projects/SFV/2018_TOG_SFV.pdf)
+
+## Lecture Slides:
+![Slide1](../AdditionalResources/01:02:2019_Lecture_Slides/IntroAIPractice-01.png)
