@@ -4,8 +4,8 @@
 ### Theme: Modeling acrobatics with neural networks.
 ### Note: Especially light reading this week.
 
-## Primary:
+## Core:
 [Learning Acrobatics by Watching YouTube](https://bair.berkeley.edu/blog/2018/10/09/sfv/)
 
-## Suggested:
+## Recommended:
 [SFV: Reinforcement Learning of Physical Skills from Videos](https://xbpeng.github.io/projects/SFV/2018_TOG_SFV.pdf)
