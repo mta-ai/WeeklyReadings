@@ -1,4 +1,4 @@
-# Mount Allison Artificial Intelligence Club Readings
+# Mount Allison Artificial Intelligence Society Readings
 ## Winter 2019, Week 2.
 
 ### Theme: Introduction to Machine Learning.
