@@ -6,5 +6,7 @@
 
 ## Core:
 [What is backpropagation really doing?(video)](https://www.youtube.com/watch?v=Ilg3gGewQ5U&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=3)
+
 [Backpropagation calculus (video)](https://www.youtube.com/watch?v=tIeHLnjs5U8&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=4)
+
 [Learning representations by back-propagating errors (paper)](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf)
