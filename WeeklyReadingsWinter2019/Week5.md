@@ -2,7 +2,7 @@
 ## Winter 2019, Week 5.
 
 ### Theme: Introduction to Neural Networks part 2.
-### Note: This week's readings focus on AlphaGo and its successors i.e. computer programs that master perfect information games like go, chess, shogi, etc. These programs start without datasets from human experts and develop their skills through self-play and reinforcement learning which train their neural networks.
+#### Note: This week's readings focus on AlphaGo and its successors i.e. computer programs that master perfect information games like go, chess, shogi, etc. These programs start without datasets from human experts and develop their skills through self-play and reinforcement learning which train their neural networks.
 
 ## Core:
 ### Attached videos are <5~ minutes in length.
