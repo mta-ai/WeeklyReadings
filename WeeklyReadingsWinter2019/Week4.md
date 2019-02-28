@@ -2,7 +2,7 @@
 ## Winter 2019, Week 4.
 
 ### Theme: Introduction to Neural Networks.
-### Note: This week kicks off the beginning of a six week theme focused on convolutional neural networks.
+#### Note: This week kicks off the beginning of a six week theme focused on convolutional neural networks.
 
 ## Core:
 [But what *is* a Neural Network? (video)](https://www.youtube.com/watch?v=aircAruvnKk)
