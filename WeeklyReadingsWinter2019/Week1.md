@@ -2,7 +2,7 @@
 ## Winter 2019, Week 1.
 
 ### Theme: Modeling acrobatics with neural networks.
-### Note: Especially light reading this week.
+#### Note: Especially light reading this week.
 
 ## Core:
 [Learning Acrobatics by Watching YouTube](https://bair.berkeley.edu/blog/2018/10/09/sfv/)
