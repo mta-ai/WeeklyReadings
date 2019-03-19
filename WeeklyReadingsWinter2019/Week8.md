@@ -1,7 +1,7 @@
 # Mount Allison Artificial Intelligence Society Readings
 ## Winter 2019, Week 6.
 
-### Theme: Introduction to Neural Networks part 3.
+### Theme: Introduction to Neural Networks part 4.
 
 #### Note: Concluding our conceptual buildup in the area of computer vision, this week we will be looking at convolutional neural networks. These are highly applicable in many areas, but especially useful in deep learning, which involves huge datasets and numerous parameters.
 
