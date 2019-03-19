@@ -6,4 +6,4 @@
 #### Note: This week we will be looking at an implementation of a basic neural network for classification, written using the Keras library in Tensorflow.
 
 ## Code:
-[Tensorflow Keras](https://www.tensorflow.org/tutorials/keras/basic_classification)
+[Tensorflow Keras Tutorial](https://www.tensorflow.org/tutorials/keras/basic_classification)
