@@ -1,5 +1,5 @@
 # Mount Allison Artificial Intelligence Society Readings
-## Winter 2019, Week 6.
+## Winter 2019, Week 8.
 
 ### Theme: Introduction to Neural Networks part 4.
 
