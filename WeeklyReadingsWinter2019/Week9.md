@@ -7,7 +7,7 @@
 
 
 ## Core:
-[What did we do with a million books? Rediscovering the Greco-Ancient world and reinventing the Humanities](https://securegrants.neh.gov/PublicQuery/Download.aspx?data=EbwGdSyLkD7zoB3W75cvd%2bXST%2bWypC%2blUWhmnRlH1Mg1fWPqTGMRwHprrtMXe5nnNEL9at6RzYAGLJkoE4uSeQOje%2bgMLyJuGw%2b%2bW%2f%2ft7X0R8BE1G5MudCUNWemGGx%2fr5C%2fB8ZNMiHRUYell8MSX%2bItwX45YUXUf)
+[What did we do with a million books? Rediscovering the Greco-Ancient world and reinventing the Humanities](https://drive.google.com/file/d/1wMeMQBqwKXx-ydWthToOaHPgnM2REvz4/view)
 
 [An Overview of Rigaudon Polytonic Greek OCR](https://docs.google.com/document/d/1iYfqflLybd3f9bBfTBk8aY_FTq05kCnq4tiKwYpqtrM/edit)
 
