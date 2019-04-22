@@ -19,4 +19,4 @@
 [Rigaudon](https://github.com/brobertson/rigaudon)
 
 ## Slides:
-[ How We Liberated the First 8 Million Words of Ancient Greek] (https://docs.google.com/presentation/d/1Q-zZNdS34N0BDj6YZltkulj2z_WCMbe1pFL4fKwnvoo/edit)
+[ How We Liberated the First 8 Million Words of Ancient Greek](https://docs.google.com/presentation/d/1Q-zZNdS34N0BDj6YZltkulj2z_WCMbe1pFL4fKwnvoo/edit)
